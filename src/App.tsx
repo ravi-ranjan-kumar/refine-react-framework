@@ -21,8 +21,7 @@ function App() {
             syncWithLocation: true,
             warnWhenUnsavedChanges: true,
             projectId: "mliW6V-VrNBB9-pHzTj2",
-          }}
-        >
+          }}>
           <Routes>
             <Route index element={<WelcomePage />} />
           </Routes>
